@@ -1,0 +1,14 @@
+{
+  "name": "routes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "htmlRoutes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elijah Broaddus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
