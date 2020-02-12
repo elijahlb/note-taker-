@@ -68,4 +68,19 @@ html, body {
     padding: 20px;
     cursor: pointer;
   }
+
+  h4 {
+    font-family: 'Indie Flower', cursive;
+  }
+
+  h3 {
+    font-family: 'Nanum Gothic', sans-serif;
+  }
+
+  h2 {
+    font-family: 'Anton', sans-serif;
+  }
   
+button {
+  float:right;
+}

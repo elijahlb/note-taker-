@@ -15,5 +15,15 @@ module.exports = function(app) {
         } else {
             res.json(false);
         }
+            location.reload();
     });
+
+    app.delete("/api/notes", function(req, res) {
+        if(noteData) {
+            noteData.pop();
+
+        }
+    });
+
+    
 };
